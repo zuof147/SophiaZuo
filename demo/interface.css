@@ -2,10 +2,10 @@
 
 /* Change the look */
 :root {
-    --color-background: rgb(235, 196, 253);
+    --color-background: whitesmoke;
     --color-pageSheet: #cfcfcf;
     --color-pageBox: violet;
-    --color-paper: #a2ff7e;
+    --color-paper: white;
     --color-marginBox: transparent;
     --pagedjs-crop-color: black;
     --pagedjs-crop-shadow: white;
